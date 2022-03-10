@@ -10,7 +10,15 @@ header {
     display: flex;
     justify-content: center;
 }
+
+@media only screen and (min-width: 420px){
+    header h2 {
+        width: 50%;
+    }
+}
+
 header h2{
+    font-size: 1.5rem;
     width: 20%;
     border-bottom: 2px solid rgb(73, 70, 65);
 }
