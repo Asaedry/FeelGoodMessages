@@ -2,7 +2,7 @@ html {
     font-size: 18px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    background-color: rgb(171, 214, 216);
+    background-color: #abd6d8;
     color: rgb(73, 70, 65);
 }
 
@@ -28,7 +28,7 @@ header h2{
 }
 
 #new_message {
-    background-color: rgb(20, 240, 192);
+    background-color: #d8b7ab;
     border-radius: 20px;
     font-family: cursive;
     font-size: .8rem;
@@ -36,3 +36,4 @@ header h2{
     font-weight: bold;
     color: rgb(73, 70, 65);
 }
+
